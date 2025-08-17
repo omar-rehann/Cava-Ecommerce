@@ -3,7 +3,7 @@
 A modern, responsive e-commerce web application built to showcase products, manage a shopping cart, and simulate a seamless user experience. Designed with clean UI, modular code, and scalable architecture.
 
 ## 🔗 Live Demo
-[View Website](https://your-cava-ecommerce-link.com)
+[View Website](https://omar-rehann.github.io/Cava-Ecommerce/)
 
 ## 🛠️ Technologies Used
 - HTML5
@@ -43,7 +43,7 @@ _Add screenshots of homepage, product grid, cart interface, and responsive views
 ## 📬 Contact
 - Email: your.email@example.com  
 - GitHub: [Your GitHub](https://github.com/omar-rehann)  
-- LinkedIn: [Your LinkedIn]()
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/omar-rehan)
 
 ---
 
